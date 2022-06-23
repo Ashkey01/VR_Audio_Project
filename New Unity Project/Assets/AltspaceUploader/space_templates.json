@@ -1,1 +1,1 @@
-{"uploadEntries":[{"AltspaceId":"2029571368948859817","Name":"Hello World Template ","IsEnabled":true,"UploadItems":[],"PerPlatformAssets":false,"HideContents":false}]}
+{"uploadEntries":[{"AltspaceId":"2029571368948859817","Name":"Hello World Template ","IsEnabled":true,"UploadItems":[{"PrefabFilepath":"Assets/3rdPerson+Fly/Scenes/3rdPerson+Fly+AudioStems.unity","ForAndroid":true,"ForWin":true,"ForMac":true}],"PerPlatformAssets":false,"HideContents":false}]}
